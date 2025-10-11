@@ -244,3 +244,4 @@ let isValid = aggregateKey.isValidSignature(
 
 print("Is valid MuSig signature: \(isValid)")
 ```
+<!-- Auto-update: 2025-10-11T09:39:13.054897 -->
